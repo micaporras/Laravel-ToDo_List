@@ -39,7 +39,6 @@
                 @else
                     <p>No Bookmark Yet</p>
                 @endif
-                
             </div>
         </div>
     </section>

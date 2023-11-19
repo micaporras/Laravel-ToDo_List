@@ -2,6 +2,11 @@
 @section('content')
 
 <style>
+    body {
+        font-family: 'Figtree';
+        background-color: aquamarine
+    }
+    
     .divider:after,
     .divider:before {
         content: "";
@@ -56,6 +61,7 @@
         color: rgb(18, 99, 92);
     }
 
+
 </style>
 
     <section class="vh-100">
@@ -105,10 +111,6 @@
                             <input type="submit" name="submit" class="btn btn-primary btn-lg" value="REGISTER" />
                         </div>
                     
-                    <div class="text-center text-lg-start mt-4 pt-2 login">
-                        <p class="small fw-bold mt-2 pt-1 mb-0">Already have an account? <a href="{{ url('login')}}"
-                            class="link-danger">Login</a></p>
-                        </div>
       
               </form>
             </div>

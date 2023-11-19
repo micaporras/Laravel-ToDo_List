@@ -105,10 +105,6 @@
                     </div>
                 </div>
   
-            <div class="text-center text-lg-start mt-4 pt-2 register">
-              <p class="small fw-bold mt-2 pt-1 mb-0">Don't have an account? <a href="{{ url('registration')}}"
-                  class="link-danger">Register</a></p>
-            </div>
   
           </form>
         </div>

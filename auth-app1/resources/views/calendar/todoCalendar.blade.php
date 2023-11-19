@@ -3,7 +3,7 @@
 <main class="container">
     <section>
         <div class="titlebar">
-            <h1>CALENDAR</h1>
+            <h1>TODO LIST IN CALENDAR VIEW</h1>
             <div>
             <a href="{{ url('list')}}" class="btn-link"><i class="fa-solid fa-list"></i></a>
             </div>
